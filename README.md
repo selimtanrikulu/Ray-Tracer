@@ -1,4 +1,4 @@
 # Ray-Tracer
 A naive Ray Tracing algorithm.
 
-Usage -> ./raytracer "input.ppm"
+Usage -> ./raytracer "input.xml"
